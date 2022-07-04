@@ -1,0 +1,8 @@
+{
+  "name": "tavonnipay",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "7c7d6cd1"
+}
